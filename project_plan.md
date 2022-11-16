@@ -17,7 +17,9 @@
 얼굴형을 가지고 있다. 
 
 ![images](https://user-images.githubusercontent.com/102898911/201646447-3556aa79-4246-4d66-b576-428e8facbc04.jpg)
-<br>그렇기 때문에 모자를 선택할 때도 모자의 패턴,재질 뿐만 아니라 모자의 종류 역시 고려해야할 사항 중 하나이다. 
+
+#### 이미지[1] 출처:세계한인언론인협회 
+<br> 그렇기 때문에 모자를 선택할 때도 모자의 패턴,재질 뿐만 아니라 모자의 종류 역시 고려해야할 사항 중 하나이다. 
 얼굴형에 따라 잘 어울리는 모자가 있고, 그렇지 않은 모자가 있기 때문에 얼굴형에 맞는 모자를 선택하는 것은 매우 중요하다.
 
  
@@ -56,7 +58,7 @@
 ### 1) 수행일정
 
 ![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/102898911/201655965-3e626c04-e49a-40bf-bd75-a8327b8b1847.jpg)
-이미지[1] 
+
 
 
 ### 2) 작업 도구 
@@ -66,7 +68,4 @@
 
 ## 7. 참고문헌 
 
-
-
-## 참고문헌
-이미지[1]  https://www.google.com/imgres?imgurl=https%3A%2F%2Fvelog.velcdn.com%2Fimages%252Fsjongyuuu%252Fpost%252Fb1b4aff9-18c2-46b8-9235-386a780b8d05%252Fai%25ED%258E%25B8-%25EC%25BA%25A1%25EC%25B2%2598.JPG&imgrefurl=https%3A%2F%2Fvelog.io%2F%40sjongyuuu%2FDeep-Learning-%25EC%2596%25BC%25EA%25B5%25B4%25ED%2598%2595-%25EB%25B6%2584%25EB%25A5%2598-%25EB%25AA%25A8%25EB%258D%25B8-%25EB%25AA%25A8%25EB%258D%25B8-%25EC%25A0%2595%25EC%259D%2598-%25EB%25B0%258F-Data-Set-%25EA%25B5%25AC%25EC%25B6%2595&tbnid=wOGglkgpDE4lEM&vet=12ahUKEwiXj-K0xK37AhXjRvUHHeUvBvMQMyg-egQIARBa..i&docid=e9YCFFXKle245M&w=870&h=419&q=%EC%96%BC%EA%B5%B4%ED%98%95%20%EB%AA%A8%EC%9E%90&hl=ko&ved=2ahUKEwiXj-K0xK37AhXjRvUHHeUvBvMQMyg-egQIARBa
+이미지[1] 세계한인언론인협회,  [https://www.google.com/imgres?imgurl=https%3A%2F%2Fvelog.velcdn.com%2Fimages%252Fsjongyuuu%252Fpost%252Fb1b4aff9-18c2-46b8-9235-386a780b8d05%252Fai%25ED%258E%25B8-%25EC%25BA%25A1%25EC%25B2%2598.JPG&imgrefurl=https%3A%2F%2Fvelog.io%2F%4[0sjongyuuu%2FDeep-Learning-%25EC%2596%25BC%25EA%25B5%25B4%25ED%2598%2595-%25EB%25B6%2584%25EB%25A5%2598-%25EB%25AA%25A8%25EB%258D%25B8-%25EB%25AA%25A8%25EB%2](http://www.okja.org/saseol/129634)58D%25B8-%25EC%25A0%2595%25EC%259D%2598-%25EB%25B0%258F-Data-Set-%25EA%25B5%25AC%25EC%25B6%2595&tbnid=wOGglkgpDE4lEM&vet=12ahUKEwiXj-K0xK37AhXjRvUHHeUvBvMQMyg-egQIARBa..i&docid=e9YCFFXKle245M&w=870&h=419&q=%EC%96%BC%EA%B5%B4%ED%98%95%20%EB%AA%A8%EC%9E%90&hl=ko&ved=2ahUKEwiXj-K0xK37AhXjRvUHHeUvBvMQMyg-egQIARBa](http://www.okja.org/saseol/129634)
