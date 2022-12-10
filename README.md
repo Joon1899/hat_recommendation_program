@@ -49,7 +49,23 @@ Google Teachable Machine
 ### 2. 자료 선택 
 
 
+
+
+
+
+
 ### 3. 모델 학습 
+
+선택된 자료를 사용하여 Techable Machine을 학습시킨다. 
+<img width="698" alt="학습" src="https://user-images.githubusercontent.com/102898911/206856210-c0f68dc1-8053-4154-9d30-bb48209b65cb.png">
+
+
+학습된 모델을 내보내기를 통해 tensorflow.js 로 다운로드 한다. 
+<img width="617" alt="모델 내보내기 " src="https://user-images.githubusercontent.com/102898911/206856252-acf0e08c-01ed-4858-ac67-62300e9eefd3.png">
+
+해당 모델을 Visual Studio Code를 사용하여 Html 파일을 만들어 임베디드 하여 사용한다. 
+
+
 
 ### 4. 모델의 웹 구현 
 
