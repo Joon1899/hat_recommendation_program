@@ -62,7 +62,7 @@ Teachable Machine은 기존에 학습된 신경망을 이용해 자체 클래스
 
 
 <img width="266" alt="단계3" src="https://user-images.githubusercontent.com/102898911/206883970-eebfe5de-3947-4f4d-ad7b-fe5df17ab5b5.png">
-#### 출처 : Google Teachable Machine 
+출처 : Google Teachable Machine 
 
 
 
