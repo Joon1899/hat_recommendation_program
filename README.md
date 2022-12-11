@@ -10,7 +10,7 @@
 
 ![images](https://user-images.githubusercontent.com/102898911/201646447-3556aa79-4246-4d66-b576-428e8facbc04.jpg)
 
-#### 이미지[1] 출처:세계한인언론인협회 
+#### 출처:세계한인언론인협회 
 <br> 그렇기 때문에 모자를 선택할 때도 모자의 패턴,재질 뿐만 아니라 모자의 종류 역시 고려해야할 사항 중 하나이다. 
 얼굴형에 따라 잘 어울리는 모자가 있고, 그렇지 않은 모자가 있기 때문에 얼굴형에 맞는 모자를 선택하는 것은 매우 중요하다.
 
@@ -62,13 +62,17 @@ Teachable Machine은 기존에 학습된 신경망을 이용해 자체 클래스
 
 
 <img width="266" alt="단계3" src="https://user-images.githubusercontent.com/102898911/206883970-eebfe5de-3947-4f4d-ad7b-fe5df17ab5b5.png">
-
+#### 출처 : Google Teachable Machine 
 
 
 
 
 
 ### 2. 자료 선택 
+
+사람의 얼굴형은 다양하지만 그중 대표적으로 많은 사람들이 속하는 긴 얼굴, 둥근 얼굴, 역삼각형 얼굴, 각진 얼굴로 얼굴형을 나누었다.  
+모델을 학습시키기 위한 자료가 많지 않으므로 각 자료들은 최대한 특징들이 부각되는 이미지로 준비하였다. 
+
 
 
 
@@ -134,3 +138,4 @@ Teachable Machine은 기존에 학습된 신경망을 이용해 자체 클래스
 
 ## 출처 
 
+https://teachablemachine.withgoogle.com/
