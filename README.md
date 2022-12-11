@@ -13,9 +13,7 @@
 <br> 그렇기 때문에 모자를 선택할 때도 모자의 패턴,재질 뿐만 아니라 모자의 종류 역시 고려해야할 사항 중 하나이다. 
 얼굴형에 따라 잘 어울리는 모자가 있고, 그렇지 않은 모자가 있기 때문에 얼굴형에 맞는 모자를 선택하는 것은 매우 중요하다.
 
- 
-
-그러나 매일 거울로 보는 본인의 모습을 객관적으로 판단하기 쉽지 않다. 나에게 꼭 맞는 모자를 고르기 위해서는 본인의 얼굴형이 어떤지 
+ 그러나 매일 거울로 보는 본인의 모습을 객관적으로 판단하기 쉽지 않다. 나에게 꼭 맞는 모자를 고르기 위해서는 본인의 얼굴형이 어떤지 
 알고 있어야 한다. 본 프로젝트에서는 이러한 어려움을 해결하고 사용자가 자신에게 맞는 모자를 선택하는 데 도움을 주고자 본 프로젝트를
 과제로 선택하게 되었다. 
 
@@ -44,7 +42,30 @@
 
 ### 1. 딥러닝 학습 모델 선택
 
-Google Teachable Machine
+구글 Teachable Machine은 머신러닝 코드를 작성하지 않고 이미지를 머신러닝 모델에 학습시켜 사용할 수 있다는 장점이 있다. 
+얼굴형 분류의 경우 미리 학습된 OpenCV 모델이 없기 때문에 Teachable Machine을 학습 모델로 선택하였다. 
+
+#### Google Teachable Machine
+<br> 
+
+구글 Teachable Machine은 자바스크립트 머신러닝 라이브러리인 TensorFlow.js를 사용해 웹브라우저에서 만들어진 모델을 학습시키고 실행할 수 있다. 
+Teachable Machine은 기존에 학습된 신경망을 이용해 자체 클래스를 만들면 이 클래스가 신경망의 마지막 레이어 또는 단계가 되는 전이 학습 기법을 
+사용하고 있다. 
+
+구글 Teachable Machine에서 모델을 만드는 과정은 다음과 같다. 
+
+
+<img width="289" alt="단계1" src="https://user-images.githubusercontent.com/102898911/206883962-cb2d3b3a-c7a0-4696-bdf5-fbc7d29c71ea.png">
+
+<img width="253" alt="단계2" src="https://user-images.githubusercontent.com/102898911/206883967-88d59d36-f045-4235-a5e3-0134557995a1.png">
+
+
+<img width="266" alt="단계3" src="https://user-images.githubusercontent.com/102898911/206883970-eebfe5de-3947-4f4d-ad7b-fe5df17ab5b5.png">
+
+
+
+
+
 
 ### 2. 자료 선택 
 
