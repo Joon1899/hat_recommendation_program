@@ -1,6 +1,7 @@
 # 얼굴형에 따른 모자 추천 프로그램
 
 ## 팀원 및 역할 
+<img width="329" alt="역할" src="https://user-images.githubusercontent.com/102898911/206884020-55dc6a82-4dbe-4e3e-ac8c-522ccdee37cf.png">
 
 
 ## 개요 
